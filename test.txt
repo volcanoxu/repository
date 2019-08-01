@@ -1,2 +1,2 @@
 initial a commit
-add first line in repoitory2
+add first line in repository1
